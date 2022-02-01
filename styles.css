@@ -1,0 +1,131 @@
+.bg-dark {
+    background-color: #666D58!important;
+    }
+
+    img {
+        width: 100%;
+      }
+
+.bg-light{
+  background-color: #d5d5ce !important;
+}
+  /* Defaults */
+body {
+    background: #eeedec;
+    color: #465665;
+  }
+  
+  a {
+    color: #5b7083;
+    transition: all .25s ease-in-out;
+  }
+  
+  /* The title */
+  .title {
+    font-weight: 700;
+    padding-top: 20px;
+  }
+  
+  /* The description */
+  .desc {
+    font-size: 1em;
+    font-style: italic;
+    font-family: Georgia, serif;
+  }
+  
+  /* Text-centering */
+  .title,
+  .desc,
+  .intro,
+  .col,
+  .container{
+    text-align: center;
+  }
+  
+  /* Intro section */
+  .intro {
+    margin: 1.75em 0 .75em;
+    border-bottom: 3px double rgba(0, 0, 0, 0.05);
+    margin-bottom: 1.75em;
+  }
+  
+  .intro a {
+    opacity: .7;
+  }
+  
+  .intro a:hover {
+    opacity: 1;
+  }
+  
+  .intro h3 {
+    font-size: .825em;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: inline-block;
+    margin: .25em .75em .75em;
+  }
+  
+  .intro h3 a {
+    font-weight: 400;
+  }
+  
+  .col_sm{
+      text-align: right;
+  }
+
+  .p{
+      text-align: left;
+  }
+
+
+  .container{
+      padding-bottom: 15px;
+      padding-top: 15px;
+  }
+
+
+  .foot{
+      padding-top: 40px;
+      font-size: small;
+      text-align: center;
+      padding-bottom: 40px;
+    
+  }
+
+  .git{
+      width: 50px;
+  }
+
+  .wrapper{
+      padding-bottom: 20px;
+  }
+
+  .reviewTitle{
+      padding-top: 20px;
+      padding-bottom: 20px;
+  }
+
+  .thumbnail {
+    position: relative;
+    padding: 0%;
+}
+
+.caption {
+  position: absolute;
+  top: 45%;
+  left: 0;
+  width: 100%;
+  font-size: 300%;
+  color: white;
+
+}
+
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('images/wedding_stock.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+}
