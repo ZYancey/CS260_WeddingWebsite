@@ -1,7 +1,7 @@
 //COUNTDOWN TIMER SCRIPT
 
     // Set the date we're counting down to
-    var countDownDate = new Date("Jan 5, 2024 15:37:25").getTime();
+    var countDownDate = new Date("Aug 20, 2022 19:00:00").getTime();
     
     // Update the count down every 1 second
     var x = setInterval(function() {
