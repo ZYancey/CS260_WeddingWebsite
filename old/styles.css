@@ -120,6 +120,13 @@ body {
 
 }
 
+h1#demo{
+  font-size: 7.5rem;
+}
+.lead{
+  font-size: 5rem;
+}
+
 .masthead {
   height: 100vh;
   min-height: 500px;
